@@ -4,5 +4,5 @@
 ![BPMN](BPMN.png)
 ## UML диаграмма
 ![UML](UML.png)
-## Sequence диаграмма
+## Sequence диаграмма для обработки данных
 ![seq](Sequence.png)
